@@ -231,7 +231,7 @@ The interactive map visualizes sales and profit distribution across states, help
 * Strong sales clusters
 * Potential expansion opportunities
 * Underperforming regions
-
+  
 ---
 
 # 💡 Key Business Insights
@@ -262,7 +262,7 @@ The interactive map visualizes sales and profit distribution across states, help
 
 ### 📌 Seasonal Trends
 
-* Q4 is the strongest sales and profit period.
+* Quarter 4 is the strongest sales and profit period.
 * Demand peaks during October, November, and December.
 
 ### 📌 Logistics Insights
@@ -272,33 +272,9 @@ The interactive map visualizes sales and profit distribution across states, help
 
 ---
 
-# 🚀 Business Impact
-
-### Sales Optimization
-
-Identify high-performing products and categories to improve inventory management and promotional planning.
-
-### Customer Targeting
-
-Focus marketing campaigns on Consumer and Corporate segments that generate the majority of revenue.
-
-### Regional Expansion
-
-Use regional insights to improve performance in underperforming markets, especially the South region.
-
-### Operational Planning
-
-Prepare inventory, staffing, and logistics resources for high-demand periods during Q4.
-
-### Profitability Improvement
-
-Encourage digital payments and optimize shipping operations to improve efficiency and reduce costs.
-
----
-
-# 📸 Dashboard Preview
-
-![Super Market Sales Dashboard](dashboard.png)
+# 📸 Screenshots / Demos
+![Dashboard Preview](https://github.com/OM-MISHRA1012/Sales-Data-Analysis/blob/main/Sales%20Analysis%20Dashboard.png)
+Consumer customers contribute nearly half of total sales, making them the primary revenue-generating segment.
 
 ---
 
@@ -308,6 +284,4 @@ The Super Market Sales Dashboard transforms raw transactional data into actionab
 
 By providing a centralized view of business performance, this dashboard enables stakeholders to make informed decisions, optimize operations, improve customer experience, and drive sustainable business growth.
 
----
 
-⭐ If you found this project useful, consider giving the repository a star and connecting with me on LinkedIn.
