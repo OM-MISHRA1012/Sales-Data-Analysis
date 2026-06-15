@@ -274,7 +274,6 @@ The interactive map visualizes sales and profit distribution across states, help
 
 # 📸 Screenshots / Demos
 ![Dashboard Preview](https://github.com/OM-MISHRA1012/Sales-Data-Analysis/blob/main/Sales%20Analysis%20Dashboard.png)
-Consumer customers contribute nearly half of total sales, making them the primary revenue-generating segment.
 
 ---
 
